@@ -1,0 +1,10 @@
+**********************************************************
+Thank you Leah for your purchase at Froggy's Book Store
+**********************************************************
+Qty	 Item	 	Price
+1	 Pointless Meetings	 4.95
+2	 Zombies Surfing	 15.99
+Sub Total:	31.98
+Tax:	2.43 
+Total:	34.41 
+**********************************************************
